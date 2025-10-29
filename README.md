@@ -1,0 +1,1 @@
+# P05-AdBD-Modelo-relacional.Vistas-y-disparadores
